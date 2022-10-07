@@ -1,0 +1,15 @@
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар по C# и ДЗ\ljv\bin\Debug\net6.0\ljv.exe
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар по C# и ДЗ\ljv\bin\Debug\net6.0\ljv.deps.json
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар по C# и ДЗ\ljv\bin\Debug\net6.0\ljv.runtimeconfig.json
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар по C# и ДЗ\ljv\bin\Debug\net6.0\ljv.dll
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар по C# и ДЗ\ljv\bin\Debug\net6.0\ljv.pdb
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар по C# и ДЗ\ljv\obj\Debug\net6.0\ljv.csproj.AssemblyReference.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар по C# и ДЗ\ljv\obj\Debug\net6.0\ljv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар по C# и ДЗ\ljv\obj\Debug\net6.0\ljv.AssemblyInfoInputs.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар по C# и ДЗ\ljv\obj\Debug\net6.0\ljv.AssemblyInfo.cs
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар по C# и ДЗ\ljv\obj\Debug\net6.0\ljv.csproj.CoreCompileInputs.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар по C# и ДЗ\ljv\obj\Debug\net6.0\ljv.dll
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар по C# и ДЗ\ljv\obj\Debug\net6.0\refint\ljv.dll
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар по C# и ДЗ\ljv\obj\Debug\net6.0\ljv.pdb
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар по C# и ДЗ\ljv\obj\Debug\net6.0\ljv.genruntimeconfig.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар по C# и ДЗ\ljv\obj\Debug\net6.0\ref\ljv.dll
