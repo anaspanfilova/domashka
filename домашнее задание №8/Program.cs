@@ -2,10 +2,10 @@
 
 Console.Clear();
 Console.WriteLine("Введите число");
-int X = int.Parse(Console.ReadLine()!);
-int N2 = 2;
-while(N2 <= X)
+int a = int.Parse(Console.ReadLine()!);
+int b = 2;
+while(b <= a)
 {
-    Console.Write($"{N2} ");
-    N2 = N2 + 2;
+    Console.Write($"{b} ");
+    b = b + 2;
 }
