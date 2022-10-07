@@ -3,9 +3,9 @@
 Console.Clear();
 Console.WriteLine("Введите первое число: ");
 int x = int.Parse(Console.ReadLine()!);
-Console.Write("Введите второе число: ");
+Console.WriteLine("Введите второе число: ");
 int y = int.Parse(Console.ReadLine()!);
-if (y*y==x);
+if (y*y==x)
 {
 Console.WriteLine("ДА");
 }
