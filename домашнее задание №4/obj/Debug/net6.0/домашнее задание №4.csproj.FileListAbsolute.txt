@@ -1,0 +1,15 @@
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар по C# и ДЗ\домашнее задание №4\obj\Debug\net6.0\домашнее задание №4.csproj.AssemblyReference.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар по C# и ДЗ\домашнее задание №4\obj\Debug\net6.0\домашнее задание №4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар по C# и ДЗ\домашнее задание №4\obj\Debug\net6.0\домашнее задание №4.AssemblyInfoInputs.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар по C# и ДЗ\домашнее задание №4\obj\Debug\net6.0\домашнее задание №4.AssemblyInfo.cs
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар по C# и ДЗ\домашнее задание №4\obj\Debug\net6.0\домашнее задание №4.csproj.CoreCompileInputs.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар по C# и ДЗ\домашнее задание №4\bin\Debug\net6.0\домашнее задание №4.exe
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар по C# и ДЗ\домашнее задание №4\bin\Debug\net6.0\домашнее задание №4.deps.json
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар по C# и ДЗ\домашнее задание №4\bin\Debug\net6.0\домашнее задание №4.runtimeconfig.json
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар по C# и ДЗ\домашнее задание №4\bin\Debug\net6.0\домашнее задание №4.dll
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар по C# и ДЗ\домашнее задание №4\bin\Debug\net6.0\домашнее задание №4.pdb
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар по C# и ДЗ\домашнее задание №4\obj\Debug\net6.0\домашнее задание №4.dll
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар по C# и ДЗ\домашнее задание №4\obj\Debug\net6.0\refint\домашнее задание №4.dll
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар по C# и ДЗ\домашнее задание №4\obj\Debug\net6.0\домашнее задание №4.pdb
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар по C# и ДЗ\домашнее задание №4\obj\Debug\net6.0\домашнее задание №4.genruntimeconfig.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар по C# и ДЗ\домашнее задание №4\obj\Debug\net6.0\ref\домашнее задание №4.dll
